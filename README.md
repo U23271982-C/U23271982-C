@@ -7,6 +7,11 @@
 </div>
 
 ###
+<div align="center">
+  Systems engineer in training, focused on Backend & AI development of large-scale systems, always integrating the best technologies.
+</div>
+
+###
 
 <br clear="both">
 
